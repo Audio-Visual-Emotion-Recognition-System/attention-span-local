@@ -1,0 +1,15 @@
+Flask
+flask-cors
+flask-socketio
+eventlet
+gevent
+gevent-websocket
+opencv-python
+numpy
+scipy
+imutils
+dlib
+tensorflow
+keras
+Pillow
+gaze-tracking
